@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Multiplayer_FPS",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Space_Mex",
+	"CreatedByURL": "https://www.github.com/spacemex/Multiplayer_FPS",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Multiplayer_FPS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
