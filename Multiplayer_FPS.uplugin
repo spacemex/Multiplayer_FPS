@@ -6,7 +6,7 @@
 	"Description": "",
 	"Category": "Other",
 	"CreatedBy": "Space_Mex",
-	"CreatedByURL": "https://www.github.com/spacemex/Multiplayer_FPS",
+	"CreatedByURL": "https://github.com/spacemex/Multiplayer_FPS",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"CanContainContent": true,
@@ -15,7 +15,7 @@
 	"Installed": false,
 	"Modules": [
 		{
-			"Name": "Multiplayer_FPS",
+			"Name": "MultiplayerFPSCore",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
